@@ -3,7 +3,7 @@
   
   <br/><br/>
   
-  Credits goes to <a href="https://github.com/SuhailTechInfo/">Suhail Tech Info</a> for Main build.</p>
+  Credits goes to <a [href="https://github.com/](https://github.com/JORAMKE/Joram-MD)">Suhail Tech Info</a> for Main build.</p>
 
   
   
